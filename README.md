@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @viniboy
 - 👀 I’m interested in learn programing 
-- 🌱 I’m currently learning c,c++
+- 🌱 I’m currently learning c//c++//rust
 - 💞️ I’m looking to collaborate 
 - 📫 How to reach me Githhub
 
