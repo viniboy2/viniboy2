@@ -10,11 +10,17 @@
 <div align="center">
   <img width="50%" src="https://github-readme-activity-graph.vercel.app/graph?username=viniboy2&bg_color=000000&color=007acc&line=007acc&point=007acc&area=true&hide_border=true" />
 </div>
+<div align="center">  
+<a href="https://www.instagram.com/viniciuss__1/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white"</a>
+</div> 
+ 
 
 ### Education
 
-- **Software Engineering** (Universidade Católica)
-  - **Status:** 3 out of 8 semesters completed (37.5%)
+ 
+  I`m currently studying one majors:
+  - <img src="https://progress-bar.dev/38/" align="center"> **software engineering**
+      
 
 ### Main skills:
 ![C](https://img.shields.io/badge/-C-007acc?style=for-the-badge&logo=c&labelColor=007acc&textColor=007acc)
@@ -32,6 +38,7 @@
 ![JavaScript](https://img.shields.io/badge/-JavaScript-007acc?style=for-the-badge&logo=javascript&labelColor=007acc&textColor=007acc)
 ![Rust](https://img.shields.io/badge/-Rust-007acc?style=for-the-badge&logo=rust&labelColor=007acc&textColor=007acc)
 ![Python](https://img.shields.io/badge/-Python-007acc?style=for-the-badge&logo=python&labelColor=007acc&textColor=007acc)
-
+<p align="center"><img align="center" src="https://profile-counter.glitch.me/{viniboy2}/count.svg" /></p> 
+<br></div>
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=007acc&height=120&section=footer"/>
 
