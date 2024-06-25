@@ -11,10 +11,10 @@
   <img width="50%" src="https://github-readme-activity-graph.vercel.app/graph?username=viniboy2&bg_color=000000&color=007acc&line=007acc&point=007acc&area=true&hide_border=true" />
 </div>
 
-### Formação
+### Education
 
-- **Engenharia de Software** (Universidade Católica)
-  - **Status:** 3º semestre (de 8)
+- **Software Engineering** (Universidade Católica)
+  - **Status:** 3 out of 8 semesters completed (37.5%)
 
 ### Main skills:
 ![C](https://img.shields.io/badge/-C-007acc?style=for-the-badge&logo=c&labelColor=007acc&textColor=007acc)
@@ -34,3 +34,4 @@
 ![Python](https://img.shields.io/badge/-Python-007acc?style=for-the-badge&logo=python&labelColor=007acc&textColor=007acc)
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=007acc&height=120&section=footer"/>
+
