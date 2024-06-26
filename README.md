@@ -32,21 +32,4 @@ I`m currently studying one major:
 ![Visual Studio](https://img.shields.io/badge/-Visual%20Studio-007acc?style=for-the-badge&logo=visual-studio&logoColor=white&labelColor=007acc)
 ![GitHub](https://img.shields.io/badge/-GitHub-007acc?style=for-the-badge&logo=github&logoColor=white&labelColor=007acc)
 ![Windows](https://img.shields.io/badge/-Windows-007acc?style=for-the-badge&logo=windows&logoColor=white&labelColor=007acc)
-![Microsoft Office](https://img.shields.io/badge/-Microsoft%20Office-007acc?style=for-the-badge&logo=microsoft-office&logoColor=white&labelColor=007acc)
-![Linux](https://img.shields.io/badge/-Linux-007acc?style=for-the-badge&logo=linux&labelColor=007acc&textColor=007acc)
-
-### Frequently Used Languages:
-![C](https://img.shields.io/badge/-C-007acc?style=for-the-badge&logo=c&labelColor=007acc&textColor=007acc)
-![Portugol](https://img.shields.io/badge/-Portugol-007acc?style=for-the-badge&logo=ghost&labelColor=007acc&textColor=007acc)
-
-### Studying at the moment:
-![JavaScript](https://img.shields.io/badge/-JavaScript-007acc?style=for-the-badge&logo=javascript&labelColor=007acc&textColor=007acc)
-![Python](https://img.shields.io/badge/-Python-007acc?style=for-the-badge&logo=python&labelColor=007acc&textColor=007acc)
-![HTML](https://img.shields.io/badge/-HTML-007acc?style=for-the-badge&logo=html5&labelColor=007acc&textColor=007acc)
-![C++](https://img.shields.io/badge/-C++-007acc?style=for-the-badge&logo=cplusplus&labelColor=007acc&textColor=007acc)
-![Rust](https://img.shields.io/badge/-Rust-007acc?style=for-the-badge&logo=rust&labelColor=007acc&textColor=007acc)
-
-<p align="center"><img align="center" src="https://profile-counter.glitch.me/{viniboy2}/count.svg" /></p> 
-<br></div>
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=007acc&height=120&section=footer"/>
-
+![Microsoft Office](https://img.shields.io/b
