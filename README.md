@@ -14,6 +14,9 @@
   <a href="https://www.linkedin.com/in/vinicius-gomes-bianchi-1a1948264/" target="_blank">
     <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white">
   </a>
+  <a href="https://www.beecrowd.com.br/judge/en/profile/492622" target="_blank">
+    <img src="https://img.shields.io/badge/-BeeCrowd-007acc?style=for-the-badge&logo=beecrowd&logoColor=white">
+  </a>
 </div>
 
 ### Education
@@ -46,3 +49,4 @@ I`m currently studying one major:
 <p align="center"><img align="center" src="https://profile-counter.glitch.me/{viniboy2}/count.svg" /></p> 
 <br></div>
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=007acc&height=120&section=footer"/>
+
