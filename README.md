@@ -14,7 +14,7 @@
   <a href="https://www.linkedin.com/in/vinicius-gomes-bianchi-1a1948264/" target="_blank">
     <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white">
   </a>
-  <a href="https://www.beecrowd.com.br/judge/en/profile/492622" target="_blank">
+  <a href="https://www.beecrowd.com.br/judge/en/profile/888847" target="_blank">
     <img src="https://img.shields.io/badge/-BeeCrowd-007acc?style=for-the-badge&logo=beecrowd&logoColor=white">
   </a>
 </div>
