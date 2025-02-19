@@ -30,7 +30,7 @@
 <!-- Education Section -->
 ### Education
 
-- <img src="https://progress-bar.dev/38/" align="center"> **Software Engineering** at Universidade Católica
+- <img src="https://progress-bar.dev/40/" align="center"> **Software Engineering** at Universidade Católica
 
 <!-- Skills Section -->
 ### Main Skills
