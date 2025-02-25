@@ -10,7 +10,7 @@
 
 <!-- Stats and Languages -->
 <div align="center">  
-  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=viniboy2&show_icons=true&count_private=true&hide_border=true&title_color=007acc&icon_color=007acc" /> 
+  <img width="50%" height="195px" src="https://github-readme-stats.vercel.app/api?username=viniboy2&show_icons=true&count_private=true&hide_border=true&title_color=007acc&icon_color=007acc" /> 
   <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=viniboy2&layout=compact&hide_border=true&title_color=007acc" />
 </div>
 
